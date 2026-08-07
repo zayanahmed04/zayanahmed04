@@ -30,3 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zayanahmed04&show_icons=true&locale=en" alt="zayanahmed04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zayanahmed04&" alt="zayanahmed04" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zayanahmed04/zayanahmed04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zayanahmed04/zayanahmed04/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/zayanahmed04/zayanahmed04/output/github-snake.svg" />
+</picture>
